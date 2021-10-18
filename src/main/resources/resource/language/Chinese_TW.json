@@ -1,0 +1,22 @@
+{
+  "reload_message":"§a[FancyDiscord] 重新讀取設定檔。",
+  "bot_error_token": "[FancyDiscord] 設定檔的bot_token有錯誤。",
+  "bot_error_channel": "[FancyDiscord] 設定檔的bot_channel有錯誤。",
+  "bot_status": "Minecraft和{player_now}名玩家。",
+  "channel_title_online": "{player_now}/{player_max} 個玩家在線 | TPS:{tps} | {total_players} 個玩家已加入伺服器 | 伺服器已運行 {uptime} | 最近更新時間: {date}",
+  "channel_title_offline": "伺服器關閉!",
+  "uptime": "{day}天 {hour}小時 {minute}分鐘 {second}秒",
+  "server_starting": ":arrows_counterclockwise: 伺服器正在啟動...",
+  "server_started": ":white_check_mark: 伺服器已開啟!",
+  "server_stopped": ":octagonal_sign: 伺服器已停止!",
+  "player_join": ":arrow_forward: {player} 已加入",
+  "player_leave": ":stop_button: {player} 已離開",
+  "player_death": ":see_no_evil: {player} 死亡",
+  "player_rebirth": ":monkey_face: {player} 復活",
+  "discord_msg": "§6[§5DISCORD§6]§r {user}: {msg}",
+  "player_msg": ":speech_balloon: {player}: {msg}",
+  "advancement": ":trophy: {player} 已完成進度 {name} 說明: {description}",
+  "tps_warning": "伺服器目前TPS:{tps}，過低可能導致伺服器崩潰。",
+  "discord_command_tps": ":bar_chart: 目前TPS:{tps}",
+  "discord_command_list": ":mens: 有 {player_now} 名玩家在線上，名單：{player_list}"
+}
