@@ -1,0 +1,22 @@
+{
+  "reload_message":"§[FancyDiscord] a구성 파일을 다시 읽으십시오.",
+  "bot_error_token": "[FancyDiscord] 프로필의 bot_token에 오류가 있습니다.",
+  "bot_error_channel": "[FancyDiscord] 프로필의 bot_channel에 오류가 있습니다.",
+  "bot_status": "Minecraft 및 {player_now} 플레이어.",
+  "channel_title_online": "{player_now}/{player_max}명의 온라인 플레이어 | TPS:{tps} | {total_players}명의 플레이어가 서버에 합류했습니다 | 서버는 {uptime} 실행 중입니다 | 최종 업데이트: {date}",
+  "channel_title_offline": "서버가 꺼져 있습니다!",
+  "uptime": "{day}일 {hour}시간 {minute}분 {second}초",
+  "server_starting": ":arrows_counterclockwise: 서버가 시작됩니다...",
+  "server_started": ":white_check_mark:서버가 켜져 있습니다!",
+  "server_stopped": ":octagonal_sign:서버가 중지되었습니다!",
+  "player_join": ":arrow_forward: {player}이(가) 합류했습니다",
+  "player_leave": ":stop_button: {player}이(가) 떠났습니다.",
+  "player_death": ":see_no_evil:   {player} 죽음",
+  "player_rebirth": ":monkey_face:  {player} 부활",
+  "discord_msg": "§6[§5DISCORD§6]§r {user} {msg}",
+  "player_msg": ":speech_balloon: {player}: {msg}",
+  "advancement": ":trophy: {player}이(가) {name} 진행을 완료했습니다 설명:{description}.",
+  "tps_warning": "서버의 현재 TPS:{tps}가 너무 낮으면 서버가 충돌할 수 있습니다.",
+  "discord_command_tps": ":bar_chart: 현재 TPS: {tps}",
+  "discord_command_list": ":mens: {player_now}명의 온라인 플레이어가 있습니다. 목록: {player_list}"
+}

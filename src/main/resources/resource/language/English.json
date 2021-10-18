@@ -1,0 +1,22 @@
+{
+  "reload_message":"§a[FancyDiscord] Re-read the configuration file.",
+  "bot_error_token": "[FancyDiscord] There is an error in the bot_token of the profile.",
+  "bot_error_channel": "[FancyDiscord] There is an error in the bot_channel of the profile.",
+  "bot_status": "Minecraft with {player_now} players.",
+  "channel_title_online": "{player_now}/{player_max} players online | TPS:{tps} | {total_players} players have joined the server | The server is running {uptime} | Last update: {date}",
+  "channel_title_offline": "The server is off!",
+  "uptime": "{day}day {hour}hour {minute}minute {second}second",
+  "server_starting": ":arrows_counterclockwise: The server is starting...",
+  "server_started": ":white_check_mark:The server is on!",
+  "server_stopped": ":octagonal_sign:The server has stopped!",
+  "player_join": ":arrow_forward: {player} joined",
+  "player_leave": ":stop_button: {player} left",
+  "player_death": ":see_no_evil:   {player} die",
+  "player_rebirth": ":monkey_face:  {player} resurrection",
+  "discord_msg": "§6[§5DISCORD§6]§r {user} {msg}",
+  "player_msg": ":speech_balloon: {player}: {msg}",
+  "advancement": ":trophy: {player} has completed progress {name} Description: {description}",
+  "tps_warning": "The server’s current TPS:{tps}, too low may cause the server to crash.",
+  "discord_command_tps": ":bar_chart: Current TPS: {tps}",
+  "discord_command_list": ":mens: There are {player_now} players online, list: {player_list}"
+}

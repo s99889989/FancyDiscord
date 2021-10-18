@@ -1,0 +1,11 @@
+{
+  "language": "English",
+  "bot_token": "",
+  "bot_channel": 12345687,
+  "status_check_time": 10,
+  "advancement_message": false,
+  "death_message": false,
+  "rebirth_message": false,
+  "tps_warning_message": true,
+  "tps_lower_than": 10
+}
